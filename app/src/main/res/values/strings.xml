@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskLaunch</string>
+    <string name="channel_name">自動重新開啟</string>
+    <string name="channel_description">TaskLaunch 在背景監看目標 App 時顯示的通知</string>
+    <string name="notification_stop">關閉</string>
+</resources>
